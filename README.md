@@ -24,3 +24,6 @@ Le site est déployé en ligne via GitHub .
 ## Auteur
 *Abdou wahab koita*  
 Étudiant en génie informatique
+## Encadreur 
+*Mr soumare*
+Ingenieur Devops
