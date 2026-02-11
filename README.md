@@ -19,7 +19,7 @@ en utilisant *HTML* et *Tailwind CSS*.
 - Navigation fluide entre les sections
 
 ## Déploiement
-Le site est déployé en ligne via GitHub .
+Le site est déployé en ligne via GitHub Page et / Netlify / Vercel .
 
 ## Auteur
 *Abdou wahab koita*  
